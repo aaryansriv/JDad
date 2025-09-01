@@ -1,0 +1,39 @@
+{
+  "original_prompt": "write an essay on 'Iphone as a status symbol in India'",
+  "task": "Write an essay discussing the perception of iPhones as status symbols in India",
+  "entities": [
+    "iPhone",
+    "status symbol",
+    "India",
+    "society",
+    "culture",
+    "technology"
+  ],
+  "subtasks": [
+    "Introduce the concept of status symbols in India",
+    "Discuss the rise of iPhones in India and their perceived value",
+    "Explain how iPhones are viewed as status symbols in Indian society",
+    "Analyze the cultural and social factors contributing to this perception",
+    "Provide examples of how iPhones are used to display social status in India",
+    "Conclude with the implications of iPhones as status symbols in India"
+  ],
+  "constraints": [
+    "Word limit: approximately 500-700 words",
+    "Format: essay",
+    "Tone: formal and analytical"
+  ],
+  "style": "formal, analytical, and informative",
+  "output_format": "essay",
+  "audience": "academic or general readers interested in social and cultural trends",
+  "examples": [
+    "The display of iPhones in social media posts",
+    "The use of iPhones in Indian weddings and other social events",
+    "The preference for iPhones over other smartphone brands in India"
+  ],
+  "expansion": [
+    "The history of status symbols in India and how they have evolved over time",
+    "The impact of social media on the perception of iPhones as status symbols",
+    "The comparison of iPhones with other luxury brands in India",
+    "The potential consequences of using iPhones as status symbols, such as social comparison and decreased self-esteem"
+  ]
+}
